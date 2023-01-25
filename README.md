@@ -1,4 +1,5 @@
 # Hello!
+I'm a Computer Science Student.
 
 <h2 align="left">Statistics</h2>
 <p align=left>
